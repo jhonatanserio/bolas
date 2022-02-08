@@ -52,4 +52,3 @@ function draw()
  rect(chao.position.x,chao.position.y,400,20)
  rect(cha.position.x,cha.position.y,400,20)
 }
-
